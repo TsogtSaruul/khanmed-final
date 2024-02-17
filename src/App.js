@@ -63,7 +63,7 @@ import './styles/CSS/owl-carousel.css'
 import './styles/CSS/responsive.css'
 import './styles/CSS/slicknav.min.css'
 import './styles/CSS/icofont.css'
-import './App.css';
+// import './App.css';
 
 
 function App() {
