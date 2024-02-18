@@ -4928,7 +4928,7 @@ body {
 	padding-left: 22px;
 }
 
-.footer input::-webkit-input-placeholder {
+/* .footer input::-webkit-input-placeholder {
 	opacity: 1;
 	color: #fff !important;
 }
@@ -4943,10 +4943,10 @@ body {
 	color: #fff !important;
 }
 
-.footer input:: input-placeholder {
+.footer input::input-placeholder {
 	opacity: 1;
 	color: #fff !important;
-}
+} */
 
 .footer .single-footer .newsletter-inner .button {
 	position: absolute;
